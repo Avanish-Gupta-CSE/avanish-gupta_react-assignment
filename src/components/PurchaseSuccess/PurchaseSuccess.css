@@ -1,0 +1,25 @@
+.purchase-success-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .purchase-success-container h1 {
+    color: #28a745; 
+  }
+  
+  .purchase-success-container p {
+    margin: 20px 0;
+  }
+  
+  .purchase-success-container button {
+    background-color: #007bff; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .purchase-success-container button:hover {
+    background-color: #0056b3;
+  }
+  
