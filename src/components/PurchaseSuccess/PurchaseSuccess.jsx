@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { CartContext } from "../../context/CartContext";
-// import './PurchaseSuccess.css';
+import './PurchaseSuccess.css';
 
 const PurchaseSuccess = () => {
   const { clearCart } = useContext(CartContext);
